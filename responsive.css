@@ -1,0 +1,218 @@
+@media screen and (min-width:1067px) {
+<b:if cond='data:blog.pageType != &quot;item&quot;'>
+        <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+    .post-body {
+    font-size: 1em;
+}
+        </b:if>
+    </b:if>
+}
+@media screen and (max-width:960px) {
+
+    
+    .logo {
+    width: 28.484375%;
+    margin: 0px 0.4882% 10px 1.46484%;
+        float: left;}
+    .top-ad {
+    float: left;
+    width: 53.82812%;
+    height: 14.648437%;
+    margin: 9px 0.4882% 15px 5.3906%;
+}
+    .search-box {
+    float: left; 
+    width: 90%;
+    height: 0.882813%;
+    margin: 0% 1.46484% 1% 5.4882%;
+}
+.search-submit {
+    width: 7.647%;}
+   .search-input {
+       width: 92.3529%;}
+    .content-wrapper{width:100%}
+.post-body {width:auto!}
+.content-area {float:none;width:90%;}
+.side-area {width: 98%!important; float: none;}
+    .side-area .widget-content {
+    padding: 8.333%;
+    width: 83%;
+}
+   <b:if cond='data:blog.pageType != &quot;item&quot;'>
+        <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+    .post-body {
+font-size: 1.3em;
+        width:52%}
+        </b:if>
+    </b:if> 
+    }
+@media screen and (max-width: 800px){
+    .page-wrapper{
+        width: 100%
+    } 
+    .top-nav ul {
+    float: none;
+    margin: 0 0 0 0;
+    list-style: none;
+    text-align: center;
+}
+    
+.logo {
+    width: 32.484375%;
+    margin: 0.4882% 0.4882% 10px 3.46484%;
+    float: left;
+    text-align: center;
+}
+    .mid-social ul {
+        display: inline-flex;}
+    .top-social ul {
+        display: none;}
+    .social2-icon {
+position: relative;
+width: 80%;
+}
+    .search-box {
+    float: right;
+    width: 48.9%;
+    height: 4.8828125%;
+    margin: 1.9882% 8.46484% 0 0.4882%
+}
+    .search-input {
+    width: 86.3529%;
+}
+    .search-submit {
+    width: 13.647%;
+}
+    .top-ad {
+    float: right;
+    width: 48.82812%;
+    margin: 3.4882% 8.4882% 0.4882% 2.3906%
+    }
+
+    .main-nav {
+      display: none; }
+    #footer-left {display:none ;float: right ;}
+    .footer {
+    padding-bottom: 1em;
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+}
+    
+    }
+@media only screen and (max-width:768px){
+.content-area {
+width:100%;
+margin :10px 0% 10px 0%;
+}
+.logo {
+    width: 60%;
+    margin: 2.4882% 0% 11% 7%;
+    float: none;
+max-width:100%;
+min-width:85%;
+}
+    .mid-social ul {
+        margin: 3px 0 0px 7.88%;}
+.top-ad {
+    float: none;
+    width: 90%;
+    margin: 9.4882% 0 0.4882% 4.3906%;
+}
+.search-box {
+    float: none;
+    width: 90%;
+    height: 4.882813%;
+    margin: 1.9882% 8.46484% 60px 4.4882%;
+}
+.search-submit {
+    width: 10.647%;
+}
+.search-input {
+    width: 89.3529%;
+}
+    .footer-wrapper .widget {
+    border-radius: 0;}
+    .footer-wrapper #footer-right .widget {
+
+        border-radius: 0 0 30px 30px; }
+    .footer {
+    padding-bottom: 0em;
+    width: 80%;
+    float: none;
+    margin-left: 9%;
+}
+ 
+    
+         <b:if cond='data:blog.pageType != &quot;item&quot;'>
+        <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+.post-body {
+	float: right;
+	width: 90%;
+	color: #444;
+	margin-right: 0;
+	padding: 15px;
+	font-size: 1.4em;
+}
+       .post-thumb1 {
+	display: block;
+}
+            .post-thumb2 {
+	display: none;
+}
+       .post img {
+	width: 70%;
+	margin-left: 15%;
+	max-width: 100%;
+	border-radius: 20px;
+	padding: 0px;
+	box-shadow: 14px 12px 7px -5px #3e5162;
+	border: 0;
+	transition: all 0.6s ease-out;
+	margin-bottom: 10px;
+}
+        </b:if>
+    </b:if>    
+}
+
+
+@media only screen and (max-width:640px){
+    
+    .logo {
+     margin: 0.4882% 0.4882% 16% 7.46484%;
+    width: 76%;}
+      <b:if cond='data:blog.pageType != &quot;item&quot;'>
+        <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+
+       
+      .post-body {
+	float: right;
+	width: 85%;
+	font-size: 1em;
+}
+       .post img {
+	width: 52%;
+	margin-left: 25%;
+	margin-top: 10px;
+}
+        </b:if>
+    </b:if>  
+}
+
+
+@media only screen and (max-width:480px){
+.logo {
+    
+    margin: 0.4882% 0.4882% 16% 7%;
+}
+
+}
+
+@media screen and (max-width:320px){
+.logo {
+    width: 100%;
+    margin: 0.4882% 0.4882% 16% 0.46484%;
+}
+}
+
+    
