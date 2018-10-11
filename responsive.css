@@ -16,15 +16,15 @@
         float: left;}
     .top-ad {
     float: left;
-    width: 53.82812%;
-    height: 14.648437%;
-    margin: 9px 0.4882% 15px 5.3906%;
+	width: 65.828%;
+	height: 14.648437%;
+	margin: 15px 0.488% 12px 1.391%;
 }
     .search-box {
-    float: left; 
-    width: 90%;
-    height: 0.882813%;
-    margin: 0% 1.46484% 1% 5.4882%;
+    float: left;
+	width: 95%;
+	height: 0.882813%;
+	margin: 0% 1.46484% 1% 2.488%;
 }
 .search-submit {
     width: 7.647%;}
@@ -72,10 +72,10 @@ position: relative;
 width: 80%;
 }
     .search-box {
-    float: right;
-    width: 48.9%;
-    height: 4.8828125%;
-    margin: 1.9882% 8.46484% 0 0.4882%
+float: right;
+	width: 57.9%;
+	height: 4.883%;
+	margin: 3.988% 3.465% 0 0.4882%;
 }
     .search-input {
     width: 86.3529%;
@@ -84,11 +84,10 @@ width: 80%;
     width: 13.647%;
 }
     .top-ad {
-    float: right;
-    width: 48.82812%;
-    margin: 3.4882% 8.4882% 0.4882% 2.3906%
+float: right;
+width: 57.828%;
+margin: 4.488% 3.488% 0.4882% 1.391%;
     }
-
     .main-nav {
       display: none; }
     #footer-left {display:none ;float: right ;}
