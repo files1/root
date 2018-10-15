@@ -62,7 +62,6 @@ blockquote a:link {color: #d34444;transition: .3s ease-in-out;} blockquote a:lin
 .PopularPosts ul li:last-child {border-bottom: none;padding-bottom: 0}
 .PopularPosts ul li .item-title a,.PopularPosts ul li a {color: #3e5162;text-decoration: none;font-size: 1.10em;font-weight: 500;transition: all 0.3s ease-out;line-height: 1.4;text-align: justify;}
 .PopularPosts ul li a:hover {color: #2996c9;}
-}
 .PopularPosts ul li:before {display: none;list-style: none;}
 .PopularPosts .item-thumbnail {margin: 0 0 0 0;}
 .PopularPosts .item-snippet {font-size: 0.9em;color: #333;font-weight: 400;display: none;}
